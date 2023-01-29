@@ -1,5 +1,5 @@
 ## Hi 👋 I'm Karan
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=karanrao-github&label=Profile%20views&color=0e75b6&style=flat"  alt="Karan" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Karanrao-git&label=Profile%20views&color=0e75b6&style=flat"  alt="Karan" /> </p>
 
 
 ### 🧐 More About Me:
